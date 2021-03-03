@@ -1,2 +1,2 @@
 # Intro-Slider
-Android image slider example
+Android fragment slider example
